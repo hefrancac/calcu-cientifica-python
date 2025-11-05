@@ -32,7 +32,7 @@ A aba "Padrão" oferece todas as operações aritméticas essenciais:
 * **Operações Básicas:** Adição (`+`), Subtração (`-`), Multiplicação (`×`), Divisão (`÷`).
 * **Controle:** `C` (Limpar tudo), `CE` (Limpar entrada atual), `⌫` (Apagar).
 * **Funções Imediatas:**
-    * **`%`**: Percentagem.
+    * **`%`**: Porcentagem.
     * **`1/x`**: Inverso de um número.
     * **`x²`**: Elevar ao quadrado.
     * **`√`**: Raiz quadrada.
